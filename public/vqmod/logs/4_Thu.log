@@ -1,0 +1,14 @@
+---------- Date: 2014-07-03 21:42:45 ~ IP : 180.76.5.155 ----------
+REQUEST URI : /shop/index.php?route=product/product&amp;product_id=255&amp;tag=&amp;sort=pd.name&amp;order=ASC&amp;limit=100
+MOD DETAILS:
+   modFile   : /home/isabella/public_html/shop/vqmod/xml/custom_body_classes.xml
+   id        : Add custom classes to body
+   version   : 1.0.1
+   vqmver    : 2.1
+   author    : everthemes.com
+
+File Name    : catalog/view/theme/*/template/common/header.tpl(0)
+VQModObject::applyMod - SEARCH NOT FOUND (ABORTING MOD): <body class="<?php echo $base_class; ?>">
+----------------------------------------------------------------------
+
+

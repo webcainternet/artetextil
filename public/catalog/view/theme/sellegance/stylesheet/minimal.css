@@ -1,0 +1,26 @@
+/*  
+Theme Name: Sellegance
+Version: 1.5.1.2
+Description: Minimal skin
+*/
+
+body { 
+	background-color: #FFF;
+	background-image: none; 
+}
+
+#content-wrapper .centralbox {
+	border:0;
+	border-bottom: 1px solid #ddd;
+	webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+.container .container-inner {
+	padding: 0;
+}
+
+#maincontent.col-sm-12 .slideshow, 
+#content-wrapper .slideshow,
+.navbar,
+#thickbar { margin-left: 0; margin-right: 0; }

@@ -1,0 +1,12 @@
+{2014/07/03 17:06:00} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=10,     SenderEmail=fabio_redskins@yahoo.com.br)) - begin 
+{2014/07/03 17:06:03} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=10,     SenderEmail=fabio_redskins@yahoo.com.br)) - end {1}A94DA8BA3D3DF5D554D42F9A7674A0D8 
+{2014/07/30 19:42:15} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=11,     SenderEmail=jufanchini02@gmail.com)) - begin 
+{2014/07/30 19:42:17} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=11,     SenderEmail=jufanchini02@gmail.com)) - end {1}65C756D46969938FF4439FA88916FBC2 
+{2014/07/30 19:42:18} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=12,     SenderEmail=jufanchini02@gmail.com)) - begin 
+{2014/07/30 19:42:19} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=12,     SenderEmail=jufanchini02@gmail.com)) - end {1}6FBC7FBDC5C5207774D29F9F74ADB53A 
+{2014/07/30 21:30:51} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=13,     SenderEmail=yarafleury@gmail.com)) - begin 
+{2014/07/30 21:30:54} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=13,     SenderEmail=yarafleury@gmail.com)) - end {1}D68B45EDE3E3E23EE4EBAF9385027FCA 
+{2014/07/30 21:30:54} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=14,     SenderEmail=yarafleury@gmail.com)) - begin 
+{2014/07/30 21:30:56} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=14,     SenderEmail=yarafleury@gmail.com)) - end {1}DEE63D41878738322469AF8AB22BCE5C 
+{2014/09/13 18:12:52} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=16,     SenderEmail=pri.moreira@hotmail.com)) - begin 
+{2014/09/13 18:12:55} [Info] PagSeguroPaymentService.Register(PagSeguroPaymentRequest(Reference=16,     SenderEmail=pri.moreira@hotmail.com)) - end {1}C0A09A9C3F3F38EDD49F8F899F645C83 
