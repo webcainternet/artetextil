@@ -111,7 +111,7 @@ Tags: sellegance, opencart, everthemes
 		
 		input.error, 
 		select.error, 
-		textarea.error { border: 1px solid #F26B55; }
+		textarea.error { border: 1px solid #BF1326; }
 		
 		span.error { 
 			display: block; 
@@ -489,7 +489,7 @@ Tags: sellegance, opencart, everthemes
 			.cart-total { margin-right: 22px; }
 			.cart-total a {
 				text-decoration: none; 
-				color: #f26b55;
+				color: #BF1326;
 				padding:0 5px;
 				font-size: 12px;
 				border-right: 1px solid #CCC;

@@ -189,6 +189,10 @@
 				  border: 0px;
 			  	}
 
+			  	.navbar-nav>li {
+				  margin-right: 10px;
+				}
+
 				#thickbar {
 					background: <?php echo $this->config->get('sellegance_thickbar_color'); ?>;
 					border-color: <?php echo $this->config->get('sellegance_thickbar_color'); ?>;
@@ -196,6 +200,10 @@
 				.navbar .nav > li > a {
 					color: #BF1326;
 					padding: 0px 7px 0px 7px;
+				  	font-size: 16px;
+					text-align: center;
+					font-family: lato, sans-serif;
+					font-weight: 300;
 				}
 
 				.navbar .nav > li > a:hover {
