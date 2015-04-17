@@ -184,16 +184,29 @@
 					background-color: <?php echo $this->config->get('sellegance_background_color'); ?>;
 				}
 
+				.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+				  margin-bottom: 10px;
+				  border: 0px;
+			  	}
+
 				#thickbar {
 					background: <?php echo $this->config->get('sellegance_thickbar_color'); ?>;
 					border-color: <?php echo $this->config->get('sellegance_thickbar_color'); ?>;
 				}
 				.navbar .nav > li > a {
-					color: <?php echo $this->config->get('sellegance_menu_color'); ?>;
+					color: #BF1326;
+					padding: 0px 7px 0px 7px;
 				}
-				.navbar .nav > li:hover > a, .navbar .nav > li > a:hover {
+
+				.navbar .nav > li > a:hover {
+					background-color: #BF1326;
+					color: #FFFFFF;
+					border-radius: 3px;
+				}
+
+				/* .navbar .nav > li:hover > a, .navbar .nav > li > a:hover {
 					color: <?php echo $this->config->get('sellegance_menu_hover'); ?>;
-				}
+				} */
 				.dropdown-menu li > a {
 					color: <?php echo $this->config->get('sellegance_dropdown_color'); ?>;
 				}
@@ -511,6 +524,14 @@
 			<?php } ?> 
 
 		</div>
+
+		
+
+
+
+
+
+
 
 	</header> <!-- #header -->
 
