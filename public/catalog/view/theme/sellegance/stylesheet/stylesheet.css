@@ -608,6 +608,7 @@ Tags: sellegance, opencart, everthemes
 				padding: 4px 0 4px 8px; 
 				outline:none;
 				background: #FFF;
+				border-radius: 3px;
 			}
 			#search .button-search {		
 				position: absolute;
